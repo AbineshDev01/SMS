@@ -21,7 +21,6 @@ The Student Management System is a web application built using Spring Boot that 
 - Java 17 or higher
 - Maven
 - MySQL 5.7 or higher
-- Spring Boot 2.7.x or higher
 
 ## 5. Setup Instructions
 To set up the project:
